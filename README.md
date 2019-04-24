@@ -1,0 +1,2 @@
+# smartypants
+Smart contract generator
